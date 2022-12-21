@@ -15,8 +15,6 @@ UI Clone (Sale Page) - Mercado Livre
 
 ## Participants
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/gabicantarini)
-
 [Gabriela Cantarini](https://github.com/gabicantarini)
 
 ## Techs

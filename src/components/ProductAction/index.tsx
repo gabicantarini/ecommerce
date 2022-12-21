@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 
 import {
   Container,
@@ -19,6 +19,8 @@ import {
 } from "./styles";
 
 const ProductAction: React.FC = () => {
+
+  const [counter, setCounter] = useState (0);
   return (
     <Container>
       <Condition>Novo</Condition>
@@ -56,7 +58,8 @@ const ProductAction: React.FC = () => {
 
       <Actions>
         <Button solid>Comprar agora</Button>
-        <Button>Adicionar ao carrinho</Button>
+        <Button onClick={() => setCounter(counter + 1)}>Adicionar ao carrinho</Button>
+        <span style={{ padding: 5}}>{counter}</span>
       </Actions>
 
       <Benefits>

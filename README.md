@@ -26,5 +26,4 @@ UI Clone (Sale Page) - Mercado Livre
 ## Starting Dev Environment
 
 1. Run `npm install` or `yarn install`.<br />
-2. Run `npm start`.<br />
-3. Run `yarn start`.<br />
+2. Run `npm start`or `yarn start`.<br />

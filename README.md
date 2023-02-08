@@ -22,6 +22,8 @@ UI Clone (Sale Page) - Mercado Livre
 - [x] React
 - [x] Styled Components
 - [x] TypeScript
+- [x] HTML
+- [x] CSS
 
 ## Starting Dev Environment
 
